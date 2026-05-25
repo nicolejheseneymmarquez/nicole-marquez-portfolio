@@ -34,13 +34,11 @@ export const coreSkills: string[] = [
 ];
 
 export const toolsMastery: ToolMastery[] = [
-  { name: "Figma", category: "Design", logoName: "figma", percentage: 92 },
   { name: "Canva Pro", category: "Design", logoName: "canva", percentage: 98 },
   { name: "Adobe CS", category: "Design", logoName: "adobe", percentage: 80 },
   { name: "HTML / CSS / JS", category: "Development", logoName: "code", percentage: 88 },
   { name: "Python", category: "Development", logoName: "terminal", percentage: 75 },
   { name: "MS Office Suite", category: "Office", logoName: "file-text", percentage: 95 },
-  { name: "Slack & Trello", category: "Collaboration", logoName: "users", percentage: 90 },
   { name: "Github / Versioning", category: "Collaboration", logoName: "git-merge", percentage: 82 }
 ];
 
@@ -53,7 +51,7 @@ export const experiences: Experience[] = [
     period: "Seasonal",
     type: "Work",
     details: [
-      "Contracted by the Department of Tourism to design the official visual identity, branding guidelines, and digital marketing assets for a major municipal festival.",
+      "Contracted by the Department of Tourism to design the official visual identity, and digital marketing assets for a major municipal festival.",
       "Conceptualized and produced high-quality event logos, protective brand watermarks, and promotional publication materials (pubmats) utilized across multiple public channels.",
       "Designed the comprehensive print-ready and digital 'Schedule of Activities' layouts for seamless public dissemination."
     ]
@@ -160,9 +158,9 @@ export const galleryItems: GalleryItem[] = [
     id: "gal-1",
     title: "Baonihan Festival Master Branding Kit",
     category: "E-Commerce & Corporate Marketing",
-    description: "Official visual branding, brand-guidelines, and identity vectors commissioned by the Department of Tourism. Featuring deep coastal golds and teal gradients inspired by Agdangan beaches.",
-    imageUrl: "/src/assets/images/brand_baonihan_1779687337317.png",
-    tags: ["Branding", "Logo Design", "Festival", "Canva Pro", "Vector Art"],
+    description: "Official visual publication materials commissioned by the Department of Tourism.",
+    imageUrl: "/src/assets/images/A-TOWN BAZAAR.png, /src/assets/images/DRAG RACE AGDANGAN.png, /src/assets/images/MAIN PUB. MAT..png",
+    tags: ["Publication", "Logo Design", "Festival", "Canva Pro"],
     client: "Department of Tourism Agdangan",
     dimensions: "Print Ready 4K Layout"
   },
