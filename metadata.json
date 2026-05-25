@@ -1,0 +1,6 @@
+{
+  "name": "Nicole Marquez Portfolio Folder",
+  "description": "An interactive, minimalist digital folder portfolio for Nicole Jheseney M. Marquez - IT Student & Graphic Design Virtual Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
